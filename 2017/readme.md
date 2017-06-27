@@ -34,6 +34,11 @@
 - [X] Hadley: *R for Data Science*
 - [X] *R in Action*
 
+- [X] Hadley: *ggplot: Elegant Graphics for Data Analysis*
+
+    > 由开发者亲自系统地介绍了 `ggplot` 包，第二版添加了更多的功能和函数，使得在 `R` 里面做图变得更加便利。
+
+
 ## 小说
 
 - [X] 《岛上书店》
